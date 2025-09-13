@@ -44,4 +44,4 @@
 ---
 
 ## 📫 Contact Me
-- 💻 Let’s connect on [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/kimo-edelbroek-954871266/))
+- 💻 Let’s connect on [https://linkedin.com](https://www.linkedin.com/in/kimo-edelbroek-954871266/)
