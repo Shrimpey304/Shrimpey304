@@ -38,10 +38,5 @@
 
 ---
 
-## 📊 GitHub Stats
-![Lord Gloobert's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact Me
 - 💻 Let’s connect on [https://linkedin.com](https://www.linkedin.com/in/kimo-edelbroek-954871266/)
